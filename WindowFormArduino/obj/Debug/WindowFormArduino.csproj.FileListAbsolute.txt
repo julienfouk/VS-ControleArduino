@@ -1,0 +1,10 @@
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\bin\Debug\WindowFormArduino.exe.config
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\bin\Debug\WindowFormArduino.exe
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\bin\Debug\WindowFormArduino.pdb
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\obj\Debug\WindowFormArduino.csprojAssemblyReference.cache
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\obj\Debug\WindowFormArduino.Form1.resources
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\obj\Debug\WindowFormArduino.Properties.Resources.resources
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\obj\Debug\WindowFormArduino.csproj.GenerateResource.cache
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\obj\Debug\WindowFormArduino.csproj.CoreCompileInputs.cache
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\obj\Debug\WindowFormArduino.exe
+C:\Users\pc-jul\source\repos\WindowFormArduino\WindowFormArduino\obj\Debug\WindowFormArduino.pdb
